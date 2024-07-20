@@ -1,1 +1,1 @@
-# multipage-vite-vanilla-js
+# Multipage Vite Vanilla JavaScript

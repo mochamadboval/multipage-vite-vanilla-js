@@ -1,0 +1,21 @@
+{
+  "name": "multipage-vite-vanilla-js",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "glob": "^11.0.0",
+    "postcss": "^8.4.39",
+    "prettier": "^3.3.3",
+    "prettier-plugin-tailwindcss": "^0.6.5",
+    "tailwindcss": "^3.4.6",
+    "vite": "^5.3.4",
+    "vite-plugin-minify": "^1.5.2"
+  }
+}
