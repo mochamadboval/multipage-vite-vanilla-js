@@ -1,0 +1,1 @@
+# multipage-vite-vanilla-js
